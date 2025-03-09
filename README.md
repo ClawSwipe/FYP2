@@ -37,19 +37,8 @@ Each dataset directory contains:
 - **CSV files** with recorded model weights
 - **Graphs** illustrating experimental results
 
-## Citation
-If you use this work in your research, please cite our paper:
-```
-@article{shaikh2025hamiltonian-qcnn,
-  author    = {Muhammad Talha Shaikh, Muhammad Hamza, Syed Bilal Ali},
-  title     = {Optimizing Quantum CNN Architectures for Efficient Image Classification},
-  journal   = {Quantum Machine Learning Research},
-  year      = {2025},
-}
-```
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Acknowledgments
 We acknowledge the support of FAST National University of Computer and Emerging Sciences (NUCES), Karachi, Pakistan, and the contributions of our research team.
