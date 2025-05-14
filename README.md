@@ -110,7 +110,7 @@ Key findings:
 If you use this work, please cite:
 
 ```bibtex
-@article{talha2025quantumcnn,
+@article{balza2025qcnn,
   title={Quantum Convolutional Architectures for Image Classification: A Hamiltonian-Embedded Approach with Ancillary Qubits},
   author={Muhammad Talha Shaikh, Muhammad Hamza, Syed Bilal Ali, Sumaiyah Zahid, Muhammad Rafi},
   journal={FYP II Report, FAST-NUCES},
