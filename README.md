@@ -128,7 +128,6 @@ If you use this work, please cite:
 ```
 Each dataset directory contains:
 - **Code files** for training and evaluation
-- **CSV files** with recorded model weights
 - **Graphs** illustrating experimental results
 
 ## Acknowledgments
