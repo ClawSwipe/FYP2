@@ -117,15 +117,21 @@ If you use this work, please cite:
   year={2025}
 }
 ```
-##Structure
-quantum_cnn_project/
-├── ct-med-img/                # Preprocessed datasets
-├── sklearn-digits-dataset/            # Qiskit & PennyLane circuit files
-├── mnist/              # Architecture & training scripts
-├── fashion-mnist/             # Experimental outputs & plots
-├── README.md            # Project documentation
 
+## Repository Structure
+```
+├── ct-med-img/                # Kaggle CT Medical Images dataset
+├── mnist/                     # MNIST dataset
+├── fashion-mnist/             # Fashion-MNIST dataset
+├── sklearn-digits-dataset/    # SKlearn Digits dataset
+├── README.md                  # This document
+```
+Each dataset directory contains:
+- **Code files** for training and evaluation
+- **CSV files** with recorded model weights
+- **Graphs** illustrating experimental results
 
-This project was conducted as a Final Year Project at FAST-NUCES Karachi.
+## Acknowledgments
+We acknowledge the support of FAST National University of Computer and Emerging Sciences (NUCES), Karachi, Pakistan, and the contributions of our research team.
 
 
